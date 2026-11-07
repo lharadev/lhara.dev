@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: grid;
+    place-items: center;
+
+    background-color: #f2e9d8;
+    color: #39352e;
+    font-family: monospace;
+}
+
+p {
+    font-size: 20px;
+}
